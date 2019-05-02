@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Card()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n
+comment2.params=s\ v
+comment2.target=Card(java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=java.lang.String\ getSuit()
+comment5.params=
+comment5.target=java.lang.String\ getDisplay()
+comment6.params=
+comment6.target=void\ setDisplayChar()
+numComments=7

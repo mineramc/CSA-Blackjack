@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BlackJackGame
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BlackJackGame\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BlackJackGame()
+comment2.params=
+comment2.target=void\ startGame()
+comment3.params=
+comment3.target=void\ runGame()
+comment4.params=id
+comment4.target=int\ turn(int)
+numComments=5
